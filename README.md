@@ -9,5 +9,5 @@
 - Run `docker compose up --build`
 - Deleted files in your `wordpress` directory
 - Copy Duplicator files into `wordpress` directory
-- Run `http://localhost:8000/installer.php`
+- Run `http://localhost:8000/wordpress/installer.php`
 - Follow instructions on screen
