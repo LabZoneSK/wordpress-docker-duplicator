@@ -1,4 +1,4 @@
-# Duplicator friendly wordpress docker setup
+# Duplicator friendly-ish Wordpress-Docker setup
 
 ## How to use?
 
