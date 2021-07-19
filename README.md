@@ -11,3 +11,7 @@
 - Copy Duplicator files into `wordpress` directory
 - Run `http://localhost:8000/wordpress/installer.php`
 - Follow instructions on screen
+
+## Notes
+
+For best performance on Windows, run your source directory from WSL2 (Win Pro license might be required). 
